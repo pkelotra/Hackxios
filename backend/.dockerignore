@@ -1,0 +1,7 @@
+pkvenv/
+__pycache__/
+*.pyc
+.env
+.git
+backend/uploads/  # Optional: ignores uploaded user data
+data/             # Optional: ignores local database files if you want a fresh start
